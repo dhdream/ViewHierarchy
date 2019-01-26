@@ -14,6 +14,9 @@ class ViewController: UIViewController {
     var sum2 = 2
     var sum3 = 3
     
+    var sum4 = 4
+    var sum5 = 5
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
